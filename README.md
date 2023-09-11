@@ -10,5 +10,5 @@
 
 
 
-Have a look at website here : [Sorting Visualizer](https://github.com/saikrishnagujju/Visual_sorting)
+
 
